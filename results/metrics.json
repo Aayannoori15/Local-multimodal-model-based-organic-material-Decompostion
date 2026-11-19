@@ -1,0 +1,13 @@
+{
+  "best_val_accuracy": 1.0,
+  "train_images": 217,
+  "val_images": 55,
+  "per_class_counts": {
+    "1_fresh_waste": 85,
+    "2_early_decomposition": 60,
+    "3_active_decomposition": 57,
+    "4_mature_compost": 70
+  },
+  "model": "MobileNetV2 (ImageNet pretrained)",
+  "device": "cpu"
+}

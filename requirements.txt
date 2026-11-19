@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision>=0.16
+gradio>=4.40
+icrawler>=0.6.9
+scikit-learn
+matplotlib
+pillow
+requests
+numpy

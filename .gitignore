@@ -1,0 +1,14 @@
+# Python virtualenv (1.2 GB - never commit)
+venv/
+__pycache__/
+*.py[cod]
+.Python
+
+# Scraped training images: third-party stock photos, regenerate with download_images.py
+dataset/
+
+# Trained weights are rebuilt by train.py
+models/
+
+# OS noise
+.DS_Store
